@@ -65,7 +65,7 @@
 
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
-<img align="center" src="https://res.cloudinary.com/practicaldev/image/fetch/s--zRZ0x2Vc--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/rf1o2b6eduboqwkigg3w.gif" alt="">
+
 
 
 
